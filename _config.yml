@@ -109,9 +109,10 @@ menu:
       url: /policy-anti-harassment.html
 
 colors:
-  highlight: 3184BF
-  highlight-darker: 3184BF
-  hfont: FFC03D
+  highlight: 0063A9
+  highlight-darker: 3F9E11
+  highlightB: 3F9E11
+  hfont: FFFFFF
 
   program:
     break-background: d1d1d1
