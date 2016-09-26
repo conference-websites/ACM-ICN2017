@@ -10,19 +10,19 @@ sass:
   style: compressed
 encoding: UTF-8
 
-url: http://conferences.sigcomm.org
-baseurl: /sigcomm/2017
+url: http://conferences.ICN.org
+baseurl: /acm-icn/2017/
 
 # Configuration for site
-title: ACM SIGCOMM 2017
+title: ACM ICN 2017
 logo:
-  image: images/sigcomm-2017-logo.png
-  info: ACM SIGCOMM 2017, Los Angeles, CA
+  image: images/icn17-logo-large.png
+  info: ACM ICN 2017, Berlin
 
 google_analytics_id: UA-83529610-1
 
 program:
-  # If the specified file doesn't exist, there will be command-line dialog to create it 
+  # If the specified file doesn't exist, there will be command-line dialog to create it
   google_client_id: .travis.d/google_client_id.json
   # Google spreadsheet with the conference data
   spreadsheet: 1J-lppI-_qcclJbmP3DN_xhgKnJnL6S344BUQQ9JbvIE
@@ -39,8 +39,8 @@ menu:
     #   url: /awards.html
     # - name: Program
     #   url: /program.html
-- name: Program Committee
-  url: /tpc.html
+# - name: Program Committee
+#   url: /tpc.html
     # - name: Posters
     #   url: /posters.html
     # - name: Demos
@@ -67,14 +67,14 @@ menu:
 #       url: /tbd2.html
 # - name: Registration
 #   url: /registration.html
-- name: Venue
-  submenu:
-    - name: Local Information
-      url: /venue.html
-    - name: Accommodations
-      url: /accommodations.html
-    - name: Visa Information
-      url: /visa.html
+# - name: Venue
+#   submenu:
+#     - name: Local Information
+#       url: /venue.html
+#     - name: Accommodations
+#       url: /accommodations.html
+#     - name: Visa Information
+#       url: /visa.html
     # - name: Accomodation
     #   url: /hotels.html
     # - name: Room Share
@@ -87,20 +87,20 @@ menu:
     #   url: /n2women-travel-grant.html
 - name: Organizing Committee
   url: /org-committee.html
-- name: Calls
-  submenu:
-    - name: Call for Papers
-      url: /cfp.html
-    - name: Submission Requirements
-      url: /submission.html
-    # - name: Call for Posters & Demos
-    #   url: /cf-posters.html
-    # - name: Call for Industrial Demos
-    #   url: /cf-industrial-demos.html
-    - name: Call for Tutorials
-      url: /cf-tutorials.html
-    - name: Call for Workshops
-      url: /cf-workshops.html
+# - name: Calls
+#   submenu:
+#     - name: Call for Papers
+#       url: /cfp.html
+#     - name: Submission Requirements
+#       url: /submission.html
+#     # - name: Call for Posters & Demos
+#     #   url: /cf-posters.html
+#     # - name: Call for Industrial Demos
+#     #   url: /cf-industrial-demos.html
+#     - name: Call for Tutorials
+#       url: /cf-tutorials.html
+#     - name: Call for Workshops
+#       url: /cf-workshops.html
 - name: Policies
   submenu:
     - name: Author Registration Policy
