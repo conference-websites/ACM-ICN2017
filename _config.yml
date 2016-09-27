@@ -103,8 +103,8 @@ menu:
 #       url: /cf-workshops.html
 - name: Policies
   submenu:
-    - name: Author Registration Policy
-      url: /policy-author-registration.html
+    #- name: Author Registration Policy
+    #  url: /policy-author-registration.html
     - name: Anti-Harassment Policy
       url: /policy-anti-harassment.html
 
