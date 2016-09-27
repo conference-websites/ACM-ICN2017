@@ -8,7 +8,7 @@ og_tags:
 
 <!-- {{ site.data.test }} -->
 
-# Welcome to ACM ICN 2017
+## Welcome to ACM ICN 2017
 
 The organizing committee is delighted to invite you to ACM ICN 2017, to be held in Berlin, Germany in September 2017.
 

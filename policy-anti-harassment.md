@@ -4,7 +4,7 @@ title: ACM ICN Anti-Harassment Policy
 group: Policies
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 The open exchange of ideas and the freedom of thought and expression are central to ACM's aims and goals.  These require an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and that embraces diversity. For these reasons, ACM is dedicated to providing a harassment-free experience for participants at our events and in our programs.
 
@@ -12,7 +12,7 @@ Harassment is unwelcome or hostile behavior, including speech that intimidates, 
 
 We recognize that there is an inherent power imbalance between senior and junior members of the community.  Senior members hold real power over junior members' career advancement. Thus, a junior member may feel pressured to accept a social invitation from a senior member, or be reluctant to speak up, when made uncomfortable. This inducement of discomfort in a junior member by a senior member may constitute harassment.
 
-## Reporting of Harassment
+### Reporting of Harassment
 
 If you believe you have been harassed or notice that someone else is being harassed, you are encouraged to report the incident in confidence (even if it does not clearly fit into the description of harassment in the policy) either by email or in person to one of the conference General Chairs or the current SIGCOMM Chair <a href="mailto:Keshav@uwaterloo.ca">S. Keshav</a>, or the current SIGCOMM Vice-Chair <a href="mailto:Renata.Teixeira@inria.fr">Renata Teixeira</a>. The SIG Chair/Vice Chair will be available to help even if not physically present. You can also ask any volunteer at the conference, who will all be wearing distinctive clothing, to arrange an immediate meeting with one or more of these named individuals.
 
@@ -22,7 +22,7 @@ The SIG and General Chairs are committed to handling your complaint respectfully
 
 Anyone asked to stop harassing behavior is expected to comply immediately. Acts of retaliation will attract severe consequences.  
 
-## Follow Up
+### Follow Up
 
 All reports of alleged harassment will be addressed expeditiously and jointly by the SIGCOMM Chair and Vice Chair, representing the Executive Committee (EC), and General Chair(s) of the conference where the event took place. These officers will determine if any inappropriate conduct has occurred. If they determine that such conduct has occurred, the EC will issue a written warning to the offender. Note that the EC reserves the right to expel or ban offenders without prior warning. Moreover, the EC may warn a given offender no more than twice before invoking additional sanctions. These additional sanctions may include, but are not limited to:
 
@@ -32,10 +32,10 @@ All reports of alleged harassment will be addressed expeditiously and jointly by
 - A permanent ban on being allowed to serve as a member of the technical program committee at SIG-sponsored events, to be lifted only by the Executive Committee.
 
  
-## Confidentiality
+### Confidentiality
 
 Your report will be kept as confidential as possible: it will be known only by the person you confide in, the conference General Chair(s), and the SIGCOMM Chair and Vice Chair. A written record on every reported incident will be made available to future SIG Chairs/Vice Chairs to preserve institutional memory. It is your choice whether you would like your name to be mentioned in this record, or used as part of the investigation (i.e., when the investigators interview others involved) at all. If the investigation determines that one or more violations occurred, the name of the offender will be included in the report.  If the report raises the possibility of criminal wrongdoing, the appropriate authorities will be notified, in consultation with, and the explicit approval of, the person(s) being harassed.
  
-## Caveat
+### Caveat
 
 If the person being investigated is one of the General Chairs or one of the two named SIG officials, then that person will be excluded from the investigation. If a person named in one or more written records becomes a future SIG Chair or Vice Chair, they will not be given those records.
