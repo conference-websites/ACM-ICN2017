@@ -10,7 +10,7 @@ sass:
   style: compressed
 encoding: UTF-8
 
-url: http://conferences.ICN.org
+url: http://conferences.sigcomm.org
 baseurl: /acm-icn/2017/
 
 # Configuration for site
