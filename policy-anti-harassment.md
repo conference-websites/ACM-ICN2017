@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ACM SIGCOMM Anti-Harassment Policy
+title: ACM ICN Anti-Harassment Policy
 group: Policies
 ---
 
