@@ -109,6 +109,49 @@
     border-color: #{{ site.colors.highlight }};
 }
 
+img.photo-left {
+	/*padding:9px;
+	border:0px solid #cccccc;*/
+	margin-left:0px;
+	margin-right:10px;
+	float:left;
+	width:316px;
+}
+
+img.photo-right {
+	padding:9px;
+	border:1px solid #cccccc;
+	margin-right:0px;
+	margin-left:10px;
+	float:right;
+	width:316px;
+}
+
+img.photo {
+	padding:9px;
+	border:1px solid #cccccc;
+	margin-right:0px;
+	margin-left:10px;
+	width:45%;
+}
+
+img.photo-third {
+	padding:9px;
+	border:1px solid #cccccc;
+	margin-right:0px;
+	margin-left:10px;
+	width:30%;
+}
+
+img.photo-banner {
+	padding:9px;
+	border:1px solid #cccccc;
+	margin-right:0px;
+	margin-left:10px;
+	width:95%;
+	display:block;
+}
+
 /* The main contents */
 .content-primary .sponsors {
     width: 100%;

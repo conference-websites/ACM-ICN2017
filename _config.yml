@@ -69,10 +69,12 @@ menu:
 #       url: /tbd2.html
 # - name: Registration
 #   url: /registration.html
-# - name: Venue
-#   submenu:
-#     - name: Local Information
-#       url: /venue.html
+- name: Local Information
+  submenu:
+   - name: Venue &amp; Social Events
+     url: /venue.html
+   - name: City &amp; Transportation
+     url: /city.html
 #     - name: Accommodations
 #       url: /accommodations.html
 #     - name: Visa Information
