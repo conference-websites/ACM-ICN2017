@@ -234,6 +234,28 @@
     white-space: normal;
 }
 
+table {
+	text-align: center;
+	width: 100%;
+	text-shadow: none;
+	border-collapse: collapse;
+}
+
+table th {
+	color: #ffffff;
+	background-color: #{{ site.colors.highlight }};
+	padding: 10px;
+}
+
+table td {
+	border: 1px solid #ccc;
+	padding: 10px;
+}
+
+table tr {
+	line-height: 1.3em;
+}
+
 /* custom controls for registration page placeholder */
 
 .content-primary .registration .ui-grid-a .ui-block-a {
