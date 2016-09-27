@@ -31,6 +31,8 @@ program:
 menu:
 - name: Home
   url: /
+- name: Call for Supporters
+  url: /cf-supporters.html
 # - name: Supporters
 #   url: /supporters.html
 # - name: Conference

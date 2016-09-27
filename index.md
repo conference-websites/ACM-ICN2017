@@ -10,9 +10,9 @@ og_tags:
 
 ## Welcome to ACM ICN 2017
 
-The organizing committee is delighted to invite you to ACM ICN 2017, to be held in Berlin, Germany in September 2017.
+The organizing committee is delighted to invite you to ACM ICN 2017, to be held in Berlin, Germany in September 26-28, 2017.
 
-More details will be released soon.
+The fundamental concept in Information-Centric Networking (ICN) is to provide accessing named data as a principal network service, evolving the Internet from today's host based packet delivery towards directly retrieving information objects by names in a secure, reliable, scalable, and efficient way. These architectural design efforts aim to directly address the challenges that arise from the increasing demands for highly scalable content distribution, from accelerated growths of mobile devices, from wide deployment of Internet-of-things (IoT), and from the need to secure the global Internet. {{ site.title }} will be a single track conference focusing on current ICN research topics, featuring paper presentations and demonstrations.
 
 ## News
 
