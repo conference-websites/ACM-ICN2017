@@ -111,6 +111,14 @@ menu:
     #  url: /policy-author-registration.html
     - name: Anti-Harassment Policy
       url: /policy-anti-harassment.html
+- name: Previous Editions
+  submenu:
+    - name: ACM ICN 2016
+      url: http://conferences.sigcomm.org/acm-icn/2016/
+    - name: ACM ICN 2015
+      url: http://conferences.sigcomm.org/acm-icn/2015/
+    - name: ACM ICN 2014
+      url: http://conferences.sigcomm.org/acm-icn/2014/
 
 colors:
   highlight: 0063A9
