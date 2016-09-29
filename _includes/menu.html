@@ -21,7 +21,7 @@
               {% if subitem.url == page.url %}{% assign active = 'navselected' %}
               {% else %}{% assign active = nil %}{% endif %}
               <li class="subnav {{ active }}" data-icon="false">
-                <a href="{{ site.baseurl }}{{ subitem.url }}">{{ subitem.name }}</a>
+                <a href="{{ subitem.url }}">{{ subitem.name }}</a>
               </li>
             {% endfor %}
           </ul>
