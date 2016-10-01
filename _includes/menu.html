@@ -21,7 +21,11 @@
               {% if subitem.url == page.url %}{% assign active = 'navselected' %}
               {% else %}{% assign active = nil %}{% endif %}
               <li class="subnav {{ active }}" data-icon="false">
-                <a href="{{ subitem.url }}">{{ subitem.name }}</a>
+                {% if subitem.url contains 'http' || subitem.url contains 'https' %}
+                  <a href="{{ subitem.url }}">{{ subitem.name }}</a>
+                {% else %}
+                   <a href="{{ site.baseurl }}{{ subitem.url }}">{{ subitem.name }}</a>
+                {% endif %}
               </li>
             {% endfor %}
           </ul>
