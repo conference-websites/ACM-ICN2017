@@ -23,7 +23,7 @@ Dahlem has the reputation of an idyllic and quiet area. Several smaller parks an
 
 ## Getting to Conference Venue
 
-Venue address:
+**Venue address:**
 
   > Freie Universit&auml;t Berlin  
   > Computer Science  
@@ -37,4 +37,35 @@ Details will follow.
 
 ## Social Events
 
+### Welcome Reception, September 26
 Details will follow.
+
+### Banquet, September 27
+
+The banquet of ACM ICN 2017 will take at a historic place, the Spiegelsaal (<i>mirrored ballroom</i>) of Cl&auml;rchens Ballhaus.
+The event is located in the east city center of Berlin.
+
+<img src="images/spiegelsaal/00-small.jpg" class="photo-banner">
+
+<img src="images/spiegelsaal/18.jpg" class="photo">
+<img src="images/spiegelsaal/12.jpg" class="photo">
+
+The building opened its doors for the public on September 13th, 1913.
+There are a veritable host of stories around this place.
+It is mentioned in the famous novel <i>Berlin Alexanderplatz</i> by Alfred D&ouml;blin.
+The German illustrator and photographer Heinrich Zille had his regular place at the bar, where he used to sit and draw.
+Otto Dix painted the poster for the place (1931), which is still used today.
+
+After WWII, the mirrored ballroom remained closed.
+It was reopened in January 2005.
+All interior was left largely untouched.
+
+**Venue address:**
+
+  > Spiegelsaal, Cl&auml;rchens Ballhaus  
+  > Auguststrasse 24  
+  > 10117 Berlin | Germany  
+
+  > [Map](http://www.spiegelsaal-berlin.de/lageplan.html)
+
+More details will follow.
