@@ -89,6 +89,12 @@ menu:
     #   url: /n2women-fellowship.html
     # - name: N2Women Travel Grant
     #   url: /n2women-travel-grant.html
+- name: Calls
+  submenu:
+    - name: Call for Papers
+      url: /cfp.html
+    - name: Submission Details
+      url: /submission.html
 - name: Organizing Committee
   url: /org-committee.html
 # - name: Calls

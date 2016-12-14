@@ -6,58 +6,73 @@ group: Calls
 
 # Call for Papers
 
-Information Centric Networking (ICN) is a new network architecture intended to provide access to information without requiring an explicit binding of that information to a particular location. By directly addressing information, ICN supports mobile users and mobile networked devices, offers a higher-level communication service to applications, and promotes authentication and efficiency in the transmission and dissemination of information. Over the last few years, a global research and development community has grown around the idea of ICN.
+The organizing committee is delighted to invite you to submit your work for presentation at the 4th ACM conference on Information Centric Networking (ICN 2017), to be held in Berlin, Germany from September 26-28, 2017.
 
-ACM ICN 2017 is the second edition of the ACM Conference on Information-Centric Networking, which follows a series of workshops on ICN held in conjunction with the ACM Sigcomm conference.  ACM ICN 2017 is the premier international forum for researchers and practitioners to present and discuss the most recent innovations, trends, experiences, and challenges in information centric networking.  ACM ICN 2017 will be a single-track conference featuring paper and poster presentations, panel discussions, and demonstrations.
+The fundamental concept in Information Centric Networking (ICN) is to provide the ability to access named information as a principal service offered by the network, evolving the Internet from today’s host based packet delivery towards directly retrieving information objects and invoking services by name in a secure, reliable, scalable, and efficient way. These architectural design efforts aim to address the challenges that arise from the increasing demands for highly scalable content distribution, from accessing cloud resources, from accelerated growth of mobile devices, from wide deployment of Internet-of-things (IoT), and from the need to secure the global Internet. Papers which reach out into related fields are specifically encouraged.
 
-The Technical Program Committee of ACM ICN 2017 invites high-quality submissions describing unpublished research results in all aspects of ICN, with particular emphasis on contributions to architectural designs and reproducible experimental evaluations.  Papers submitted for consideration should not have been already published elsewhere and should not be under review or submitted for review elsewhere during the consideration period. Specifically, authors are required to adhere to the [ACM Policy and Procedures on Plagiarism]{http://www.acm.org/publications/policies/plagiarism_policy} and the [ACM Policy on Prior Publication and Simultaneous Submissions]{http://www.acm.org/publications/policies/sim_submissions}.
+ACM ICN 2017 will be a single track conference focusing on current ICN research topics, featuring paper presentations, posters and demonstrations.
 
-Topics of interest include:
+## Topics of Interest
 
-- Architecture design and evaluation
-- Comparison of different ICN architectures
-- Interoperability across ICN architectures
-- ICN evaluation methodology and metrics
-- Analysis of scalability issues in ICN
-- ICN enabled applications
-- Routing in ICN
-- Transport issues in ICN
-- Caching
-- Mobility support
-- Trust management and access control
-- Management in ICN
-- ICN economics and business models
-- Tools, experimentation facilities, and measurement methodology for ICN
-- Experience from implementation
-- Feasibility studies of ICN for high speed networking
-- Privacy
-- ICN Deployment
-- ICN APIs
+- Use of ICN for both legacy problems and novel use cases, including but not limited to:
+    - Content distribution
+    - Name-based access to cloud resources
+    - Device and content mobility
+    - IoT
+- Network layer, mobility and architecture:
+    - Comparison of architectures, ICN styles and semantics
+    - Interdependency of namespace design, routing, and resource control
+    - ICN support for ad hoc and direct peer-to-peer communication
+    - ICN for high-speed networking
+- Operations:
+    - Business and Economic models and their effects on deployability
+    - Management of ICN networks and systems
+    - Caching and its interaction with I/O performance
+    - Scalability analysis
+    - Traffic Engineering
+- Security:
+    - Privacy, both generally and especially its interaction with caching
+    - Trust management and access control
+    - IoT-specific security considerations
+- Application layer, Evaluations and Testbeds:
+    - APIs for transport, other higher-level abstractions, and their assessment
+    - Experience from implementation, testbeds, and tools
+    - Critical analysis of previous research in ICN, including reproducibility studies
+    - Methodology and metrics
+- Translational Research:
+    - Deployments of ICN
+    - ICN for distributed computation, cloud-based services, database queries, big data manipulation as well as ICN-mediated sensor/actuator control loops
+    - ICN-inspired applications and systems
+- Implementation challenges and experiences
+    - Line speed caching
+    - Routing scalability
+    - Congestion control
+    - Zero conf ICN
 
-In addition to the main conference, ACM ICN 2017 will have a series of co-located workshops, tutorials, poster and demo sessions, a travel grant program, and conference best paper(s) and SIGCOMM awards. For the criteria for the selection of the conference best paper award(s), see [Best Paper Award Guidelines](http://www.sigcomm.org/content/best-paper-award-guidelines).
+## Submission Details
 
-## Submissions
+Full-papers can be up to 10 pages in length, following the ACM SIGCOMM format, and should convey results of mature research. Short-papers can be up to 6 pages in length: This format is suitable for less mature workshop-oriented work not qualifying for a full submission and for thought-provoking position papers. Submissions exceeding the 6 pages length will be considered as full-papers. Papers with doctoral students as first authors are particularly encouraged. Note that in order to ensure adequate citation of related work, extra pages of references are allowed (and encouraged).
 
-<!-- SIGCOMM is a highly selective conference where full papers typically report novel results firmly substantiated by experimentation, deployment, simulation, or analysis. Submissions should be in two-column, 10-point format, and can be up to 12 pages in length with as many additional pages as necessary for references. Detailed submission instructions can be found on the conference web site. -->
+Submissions will be reviewed and evaluated on the basis of originality, importance of contribution, soundness, evaluation, quality of presentation and appropriate comparison to related work. The program committee as a whole will make final decisions about which submissions to accept for presentation at the conference. A “best paper award” will be attributed from the program committee to one among the accepted papers in each of the Full paper and Short paper categories. The program committee may invite authors of non-accepted papers present their work with a poster accompanied by a 2-page extended abstract. Please note that ACM ICN 2017 also has a specific call for posters, demos, tutorials, and panel sessions.
 
-<!-- Detailed submission instructions can be found [here]({{ site.baseurl }}/submission.html). -->
+To submit papers and abstracts to the ICN 2017 conference, first carefully read the [submission policies](http://conferences2.sigcomm.org/acm-icn/2017/submission.html#policies), the [conflicts of interest](http://conferences2.sigcomm.org/acm-icn/2017/submission.html#conflicts), and the [formatting requirements](http://conferences2.sigcomm.org/acm-icn/2017/submission.html#formatting) specified below.
 
-More information will be released soon.
+## Submission Instructions
 
-<!-- ## Experience Track -->
+- Register your paper by May 1, 2017 on the paper submission site. Submit your paper by May 8, 2017. Be sure to finalize your paper on the paper submission site to make it available for review.
+- Submit your poster and demo abstract by July 8, 2017. Be sure to finalize your abstract on the submission site to make it available for review.
 
- <!-- In addition to submissions considered for the standard track, SIGCOMM 2017 will also include a submission category for experience papers on the design, analysis, and evaluation of techniques in commercial (or otherwise widespread) deployment. Authors must explicitly indicate whether a submission is to be considered for this track or the standard track. (Further information in the detailed submission instructions.) -->
+**This is a hard deadline, and no extensions will be given.**
 
-<!-- ## Ethical Concerns -->
+**We use different submission sites for full papers and poster/demo abstracts.**
 
-<!-- Authors must as part of the submission process attest that their work complies with all applicable ethical standards of their home institution(s), including, but not limited to privacy policies and policies on experiments involving humans. Note that submitting research for approval by one's institution's ethics review body is necessary, but not sufficient -- in cases where the PC has concerns about the ethics of the work in a submission, the PC will have its own discussion of the ethics of that work. The PC takes a broad view of what constitutes an ethical concern, and authors agree to be available at any time during the review process to rapidly respond to queries from the PC chairs regarding ethical standards. -->
+If your paper is accepted, we will provide further information for the camera-ready version.
+
+If you have any questions about submitting papers to ICN 2017, or encounter problems with
+the paper submission site, contact the TPC chairs well before the deadline.
 
 ## Important dates
 
 {% include dates.html track = "main" %}
 
-<!-- <a href="files/cfp.pdf" rel="external" data-role="button" class="dl-button button">Download this call as a PDF</a> -->
-
-<!-- ## Authors take note -->
-
-<!-- The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two or three weeks prior to the first day of the conference and applies to all published work unless the authors explicitly opt out. Note that the official publication date affects the deadline for any patent filings related to published work. -->
+AUTHORS TAKE NOTE: The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of the conference. The official publication date affects the deadline for any patent filings related to published work.

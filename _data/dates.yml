@@ -8,23 +8,24 @@
 
 main-registration:
   track: main
-  info: Paper title and abstract registration deadline
-  date: January 20, 2017 (5:00pm PST)
+  info: Paper Registration Deadline (Long and Short)（HARD DEADLINE)
+  date: May 1, 2017
   important: true
 main-submission:
   track: main
-  info: Complete paper submissions deadline
-  date: January 27, 2017 (5:00pm PST)
+  info: Paper Submission Deadline (Long and Short) （HARD DEADLINE)
+  date: May 8, 2017
   important: true
 main-notification:
   track: main
-  info: Notification to authors
-  date: May 5, 2017
+  info: Acceptance Notification
+  date: July 18, 2017
   important: true
-# main-due:
-#   track: main
-#   info: Final papers due
-#   date: Late June, 2017
+main-due:
+  track: main
+  info: Camera Ready Due
+  date: August 21, 2017
+  important: true
 
 tutorials-proposals:
   track: tutorials
@@ -62,11 +63,11 @@ posters-notification:
 #   track: posters
 #   info: Camera Ready Deadline
 #   date: TBD
-  
-main-program:
+
+conference:
   track: main
-  info: Technical Program
-  date: August 21-25, 2017
+  info: Conference
+  date: September 26-28, 2017
   important: true
 
 ## Workshop planning dates
