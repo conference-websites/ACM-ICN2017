@@ -16,9 +16,9 @@ The fundamental concept in Information-Centric Networking (ICN) is to provide ac
 
 ## News
 
-Stay tuned!
+<!-- Stay tuned! -->
 
-<!-- {% include news.html %} -->
+{% include news.html %}
 
 <!-- ## Conference Schedule
 
@@ -41,6 +41,10 @@ TBD. -->
 TBD. -->
 
 <!-- {% include dates.html %} -->
+
+## Important Dates
+
+{% include dates.html track = "main" %}
 
 ## Sponsors
 

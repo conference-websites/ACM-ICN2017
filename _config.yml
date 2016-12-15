@@ -95,6 +95,8 @@ menu:
       url: /cfp.html
     - name: Submission Details
       url: /submission.html
+- name: Program Committee
+  url: /tpc.html
 - name: Organizing Committee
   url: /org-committee.html
 # - name: Calls

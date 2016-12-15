@@ -4,7 +4,7 @@ title: Call for Papers
 group: Calls
 ---
 
-# Call for Papers
+## {{ page.title }}
 
 The organizing committee is delighted to invite you to submit your work for presentation at the 4th ACM conference on Information Centric Networking (ICN 2017), to be held in Berlin, Germany from September 26-28, 2017.
 
