@@ -8,7 +8,7 @@
 
 main-registration:
   track: main
-  info: Paper Registration Deadline (Long and Short)（HARD DEADLINE)
+  info: Paper Registration Deadline (Long and Short) （HARD DEADLINE)
   date: May 1, 2017
   important: true
 main-submission:

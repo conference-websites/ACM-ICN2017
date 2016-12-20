@@ -31,8 +31,38 @@ program:
 menu:
 - name: Home
   url: /
-- name: Call for Supporters
-  url: /cf-supporters.html
+- name: Program Committee
+  url: /tpc.html
+- name: Calls
+  submenu:
+    - name: Call for Papers
+      url: /cfp.html
+    - name: Submission Details
+      url: /submission.html
+    - name: Call for Supporters
+      url: /cf-supporters.html
+- name: Local Information
+  submenu:
+   - name: Venue &amp; Social Events
+     url: /venue.html
+   - name: City &amp; Travel Tips
+     url: /city.html
+- name: Organizing Committee
+  url: /org-committee.html
+- name: Policies
+  submenu:
+    #- name: Author Registration Policy
+    #  url: /policy-author-registration.html
+    - name: Anti-Harassment Policy
+      url: /policy-anti-harassment.html
+- name: Previous Editions
+  submenu:
+    - name: ACM ICN 2016
+      url: http://conferences.sigcomm.org/acm-icn/2016/
+    - name: ACM ICN 2015
+      url: http://conferences.sigcomm.org/acm-icn/2015/
+    - name: ACM ICN 2014
+      url: http://conferences.sigcomm.org/acm-icn/2014/
 # - name: Supporters
 #   url: /supporters.html
 # - name: Conference
@@ -69,12 +99,6 @@ menu:
 #       url: /tbd2.html
 # - name: Registration
 #   url: /registration.html
-- name: Local Information
-  submenu:
-   - name: Venue &amp; Social Events
-     url: /venue.html
-   - name: City &amp; Travel Tips
-     url: /city.html
 #     - name: Accommodations
 #       url: /accommodations.html
 #     - name: Visa Information
@@ -89,16 +113,6 @@ menu:
     #   url: /n2women-fellowship.html
     # - name: N2Women Travel Grant
     #   url: /n2women-travel-grant.html
-- name: Calls
-  submenu:
-    - name: Call for Papers
-      url: /cfp.html
-    - name: Submission Details
-      url: /submission.html
-- name: Program Committee
-  url: /tpc.html
-- name: Organizing Committee
-  url: /org-committee.html
 # - name: Calls
 #   submenu:
 #     - name: Call for Papers
@@ -113,20 +127,6 @@ menu:
 #       url: /cf-tutorials.html
 #     - name: Call for Workshops
 #       url: /cf-workshops.html
-- name: Policies
-  submenu:
-    #- name: Author Registration Policy
-    #  url: /policy-author-registration.html
-    - name: Anti-Harassment Policy
-      url: /policy-anti-harassment.html
-- name: Previous Editions
-  submenu:
-    - name: ACM ICN 2016
-      url: http://conferences.sigcomm.org/acm-icn/2016/
-    - name: ACM ICN 2015
-      url: http://conferences.sigcomm.org/acm-icn/2015/
-    - name: ACM ICN 2014
-      url: http://conferences.sigcomm.org/acm-icn/2014/
 
 colors:
   highlight: 0063A9
