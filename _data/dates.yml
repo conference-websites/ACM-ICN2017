@@ -30,12 +30,12 @@ main-due:
 tutorials-proposals:
   track: tutorials
   info: Proposals deadline
-  date: TBD
+  date: July 16, 2017
   important: true
 tutorials-notification:
   track: tutorials
   info: Notification of Acceptance
-  date: TBD
+  date: July 24, 2017
 
 workshops-proposals:
   track: workshops
