@@ -19,7 +19,8 @@ logo:
   image: images/icn17-logo-large.png
   info: ACM ICN 2017, Berlin
 
-google_analytics_id: UA-83529610-1
+# ACM ICN'2017 tracking
+google_analytics_id: UA-83529610-2
 
 program:
   # If the specified file doesn't exist, there will be command-line dialog to create it
