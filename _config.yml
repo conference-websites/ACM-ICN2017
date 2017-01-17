@@ -44,6 +44,8 @@ menu:
       url: /cf-supporters.html
     - name: Call for Tutorials
       url: /cf-tutorials.html
+    - name: Call for Posters and Demos
+      url: /cf-posters-and-demos.html
 - name: Local Information
   submenu:
    - name: Venue &amp; Social Events

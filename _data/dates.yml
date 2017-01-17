@@ -54,15 +54,15 @@ workshops-papers-due:
 posters-submission:
   track: posters
   info: Submissions deadline
-  date: TBD
+  date: July 9, 2017 12am EDT
 posters-notification:
   track: posters
   info: Acceptance Notification
-  date: TBD
-# posters-due:
-#   track: posters
-#   info: Camera Ready Deadline
-#   date: TBD
+  date: July 31, 2017
+posters-due:
+  track: posters
+  info: Camera Ready Due
+  date: August 21, 2017
 
 conference:
   track: main
