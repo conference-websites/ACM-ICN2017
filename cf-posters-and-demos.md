@@ -13,11 +13,92 @@ committees:
         affiliation: University of Helsinki, FI
         homepage:    https://www.cs.helsinki.fi/u/jakangas/
 
-    - role: Demo/Poster Program Commitee
+    - role: Demo/Poster Program Committee
       people:
-      - name:        TBD
-        affiliation: TBD
-        homepage:    TBD
+       - name:        Muhammad Husain Abdullahi Sabet
+         affiliation: Shahid Beheshti University
+       - name:        Sripriya Adhatarao
+         affiliation: University of Goettingen
+       - name:        Aytac Azgin
+         affiliation: Huawei Research
+       - name:        Emmanuel Baccelli
+         affiliation: INRIA
+       - name:        Hila Ben Abraham
+         affiliation: Washington University in St. Louis
+       - name:        Gennaro Boggia
+         affiliation: Politecnico di Bari
+       - name:        Thibault Cholez
+         affiliation: Université de lorraine
+       - name:        Daniel Corujo
+         affiliation: ATNoG
+       - name:        Paul Duggan
+         affiliation: Trinity College Dublin
+       - name:        Yehia Elkhatib
+         affiliation: Lancaster University
+       - name:        Marcel Enguehard
+         affiliation: Cisco Systems
+       - name:        Toru Hasegawa
+         affiliation: Osaka University
+       - name:        Volker Hilt
+         affiliation: Nokia Bell Labs
+       - name:        Dohyung Kim
+         affiliation: Sungkyunkwan University
+       - name:        Yuki Koizumi
+         affiliation: Osaka University
+       - name:        Zhenyu Li
+         affiliation: ICT/CAS
+       - name:        Lei Liu
+         affiliation: Fujitsu Laboratories of America, Inc.
+       - name:        Zhi Liu
+         affiliation: Waseda University
+       - name:        Daisuke Matsubara
+         affiliation: Hitachi
+       - name:        Satoshi Ohzahata
+         affiliation: The University of Electro-Communications
+       - name:        Davide Pesavento
+         affiliation: Université Pierre et Marie Curie
+       - name:        George Petropoulos
+         affiliation: Intracom Telecom
+       - name:        Anders Plymoth
+         affiliation: TelHoc AB
+       - name:        Ioannis Psaras
+         affiliation: UCL
+       - name:        Abinesh Ramakrishnan
+         affiliation: Huawei
+       - name:        Ravi Ravindran
+         affiliation: Huawei
+       - name:        Jonnahtan Saltarin
+         affiliation: University of Bern
+       - name:        Arjuna Sathiaseelan
+         affiliation: University of Cambridge
+       - name:        Thomas C. Schmidt
+         affiliation: HAW Hamburg
+       - name:        Wentao Shang
+         affiliation: UCLA
+       - name:        Susmit Shannigrahi
+         affiliation: Colorado State University
+       - name:        Thomas Silverston
+         affiliation: NICT
+       - name:        Kohei Sugiyama
+         affiliation: KDDI
+       - name:        Eum Suyong
+         affiliation: Osaka University
+       - name:        Michele Tortelli
+         affiliation: Telecom ParisTech
+       - name:        Dirk Trossen
+         affiliation: InterDigital Europe Ltd
+       - name:        Liang Wang
+         affiliation: University of Cambridge
+       - name:        Greg White
+         affiliation: CableLabs
+       - name:        Bastiaan Wissingh
+         affiliation: TNO Netherlands
+       - name:        Fan Wu
+         affiliation: Central South University
+       - name:        Qinghua Wu
+         affiliation: ICT, CAS
+       - name:        George Xylomenos
+         affiliation: Athens University of Economics and Business
 ---
 
 ## {{ page.title }}
