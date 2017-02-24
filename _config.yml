@@ -32,6 +32,8 @@ google_analytics_id: UA-83529610-2
 menu:
 - name: Home
   url: /
+- name: Supporters
+  url: /supporters.html
 - name: Program Committee
   url: /tpc.html
 - name: Calls
@@ -68,8 +70,6 @@ menu:
       url: http://conferences.sigcomm.org/acm-icn/2015/
     - name: ACM ICN 2014
       url: http://conferences.sigcomm.org/acm-icn/2014/
-# - name: Supporters
-#   url: /supporters.html
 # - name: Conference
 #   submenu:
     # - name: Awards
