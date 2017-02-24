@@ -55,3 +55,10 @@ TBD. -->
 	<a href="//www.acm.org/"><img src="images/acm.png" alt="Association for Computing Machinery" /></a>
 	<a href="//www.ICN.org/"><img src="images/sig.png" alt="ACM ICN" /></a>
 </div>
+
+**Technically Co-Sponsored**
+
+<div class="sponsors">
+	<a href="//www.vde.com/"><img src="images/sponsors/vde.jpg" alt="VDE" /></a>
+</div>
+
