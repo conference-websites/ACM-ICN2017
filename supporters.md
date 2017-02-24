@@ -3,13 +3,17 @@ layout: default
 title: Supporters
 ---
 
-# Supporters
+## Industrial Supporters
 
 <!-- when adding sponsor logos here, need also to add them to the sponsor ticker tape - see include/footer.php file -->
 
+<p>
+You want to support ACM ICN 2017? Check our <a href="cf-supporters.html">Call for Supporters</a>.
+</p>
+
 <!--
 
-## Platinum
+### Platinum
 
 <p>
 <div style="text-align: center;">
@@ -23,7 +27,7 @@ title: Supporters
 
 -->
 
-## Gold
+### Gold
 
 <p>
 <div style="text-align: center;">
@@ -36,7 +40,7 @@ title: Supporters
 </p>
 
 
-## Silver
+### Silver
 
 
 <p>
@@ -63,7 +67,7 @@ title: Supporters
 </div>
 -->
 
-## Bronze
+### Bronze
 
 <p>
 <div style="text-align: center;">
@@ -76,7 +80,7 @@ title: Supporters
 </p>
 
 
-## Universities
+## University Supporters
 
 <p>
 <div style="text-align: center;">
