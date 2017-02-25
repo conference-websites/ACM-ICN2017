@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Venue
-group: Venue
+group: Local Information
 ---
 
 ## {{ page.title }}

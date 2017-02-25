@@ -1,7 +1,7 @@
 ---
 layout: default
 title: City &amp; Travel Tips
-group: Venue
+group: Local Information
 ---
 
 ## {{ page.title }}
