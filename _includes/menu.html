@@ -14,6 +14,7 @@
       {% else %}
         {% if item.name == page.group %}{% assign collapsed = 'data-collapsed="false"' %}
         {% else %}{% assign collapsed = nil %}{% endif %}
+        {% if item.name == "Calls" %}{% assign collapsed = 'data-collapsed="false"' %}{% endif %}
         <div data-role="collapsible" data-theme="a" data-content-theme="a" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right" {{ collapsed }} class="navgroup">
           <h4>{{ item.name }}</h4>
           <ul data-role="listview" data-inset="false">
