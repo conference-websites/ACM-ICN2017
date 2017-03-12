@@ -3,6 +3,7 @@
     [300, "huawei.png", "http://www.huawei.com/", "huawei", 0, 406, 406, "gold"],
     [200, "intel.png", "http://www.intel.com/", "intel", 0, 198, 300, "silver"],
     [100, "bosch.png", "http://www.bosch.com/", "bosch", 0, 303, 1280, "bronze"],
+    [100, "msa.png", "http://msasafety.com/", "msa", 0, 103, 216, "bronze"],
     [10, "fub.png", "http://www.fu-berlin.de/", "fub", 0, 273, 1024, "university"],
     [10, "hawh02.gif", "http://www.haw-hamburg.de/", "hawh", 0, 206, 1024, "university"],
 ]
