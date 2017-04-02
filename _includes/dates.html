@@ -5,7 +5,7 @@
     {% if included %}
       <li data-icon="false">
         <div class="ui-grid-a">
-          <div class="ui-block-a"><p>{{ item.date }}</p></div>
+          <div class="ui-block-a"><p><b>{{ item.date }}</b></p></div>
           <div class="ui-block-b"><p>{% if include.track == null %}{{ site.data.tracks[item.track].title }} {{ item.info | downcase }}{% else %}{{ item.info }}{% endif %}</p></div>
         </div>
       </li>
