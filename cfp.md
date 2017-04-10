@@ -57,6 +57,8 @@ Submissions will be reviewed and evaluated on the basis of originality, importan
 
 To submit papers and abstracts to the ICN 2017 conference, first carefully read the [submission policies](http://conferences2.sigcomm.org/acm-icn/2017/submission.html#policies), the [conflicts of interest](http://conferences2.sigcomm.org/acm-icn/2017/submission.html#conflicts), and the [formatting requirements](http://conferences2.sigcomm.org/acm-icn/2017/submission.html#formatting) specified below.
 
+Submissions can be made through HotCRP: please go to the ICN 2017 Submission Site at (https://icn17.hotcrp.com/)[https://icn17.hotcrp.com/].
+
 ## Submission Instructions
 
 - Register your paper by May 1, 2017 on the paper submission site. Submit your paper by May 8, 2017. Be sure to finalize your paper on the paper submission site to make it available for review.
