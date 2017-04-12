@@ -14,6 +14,8 @@ ICN will review extended versions of previously-published short preliminary pape
 
 Papers must be written in English. All submitted papers will be judged based on their quality and relevance through a single-blind reviewing process. Authors must identify themselves by name and affiliation in the title of the paper.
 
+Submissions can be made through HotCRP: please go to the ICN 2017 Submission Site at [https://icn17.hotcrp.com/](https://icn17.hotcrp.com/).
+
 ## Conflicts of interest
 
 Both authors and TPC members must identify conflicts of interest according to the following general principles.
