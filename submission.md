@@ -28,17 +28,27 @@ All submissions must obey the formatting requirements listed below. Your goal as
 
 For your submission, please follow the rules:
 
-- Submit papers of no more than ten (10) single-spaced pages, including figures, tables, references, appendices, etc. Papers longer than 10 pages will not be reviewed. For posters and demos the page limit is 2 pages.
+- Submit papers of no more than ten (10) single-spaced pages, including figures, tables, appendices, etc.  References do not count to the page limit and in order to ensure adequate citation of related work, extra pages of references are allowed (and encouraged).
+
+    Submissions up to six (6) pages, excluding references, will be considered for the short-paper track, submissions that exceed six pages will be considered for the full-paper track.
+
+    For posters and demos the page limit is 2 pages, excluding references.
+
 - Include names and affiliations of all authors in the title page, as the review process will be single-blind.
-- Submit papers using formatted for printing on Letter-sized paper (8.5" by 11").  Paper text blocks must follow ACM guidelines: double-column, with each column 9.25" by 3.33", 0.33" space between columns.  Each column must contain no more than 55 lines of text.  For submission, use [2017 ACM Article template](http://www.acm.org/publications/proceedings-template){: rel="external"} ([LaTeX](http://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip){: rel="external"}, [MS Word/Windows](http://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acm_windows_word_template.zip){: rel="external"}, [MS Word/Mac](http://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acm_mac_2011_word_template.zip){: rel="external"}).
+
+- Submit papers using formatted for printing on Letter-sized paper (8.5" by 11") using [2017 ACM Article template](http://www.acm.org/publications/proceedings-template){: rel="external"} ([LaTeX](http://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip){: rel="external"}, [MS Word/Windows](http://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acm_windows_word_template.zip){: rel="external"}, [MS Word/Mac](http://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acm_mac_2011_word_template.zip){: rel="external"}).
 
     If you are using LaTeX, you can make use of [this template for ACM conference proceedings](https://github.com/conference-websites/acmart-sigproc-template).  Unlike the official template, it only includes example for the ACM conference proceedings.
     {: class="bs-callout bs-callout-info" }
 
 - Provide an abstract of no more than 250 words.
+
 - Number the pages.
+
 - Submit papers in PDF (Portable Document Format) and ensure that they are compatible with Adobe Acrobat (English version). Other formats, including Postscript, will not be accepted. Avoid using any special characters or non-standard fonts. We must be able to display and print your submission exactly as we receive it using only standard tools and printers, so we strongly suggest that you use only standard fonts embedded in the PDF file.
+
 - Ensure that labels and symbols used in graphs and figures are legible, including the font sizes of tick marks, axis labels, legends, etc.
+
 - Limit the file size to less than 15MB. Contact the TPC chairs if you have a file larger than 15 MB.
 
 ## Paper Acceptance
