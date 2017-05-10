@@ -60,6 +60,12 @@
       <th>Reservation: </th>
       <td>{{ hotel.reservation-info }}</td>
     </tr>
+    {% if hotel.attention %}
+    <tr>
+      <th>Attention: </th>
+      <td>{{ hotel.attention }}</td>
+    </tr>
+    {% endif %}
   </table>
 
   {% if hotel.note %}

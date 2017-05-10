@@ -10,7 +10,8 @@ hotels:
   address: Hotel Steglitz International / Best Western Plus<br> Albrechtstr. 2 <br> 12165 Berlin, Germany
   distance: 2.2 km / 1.2 miles <br/> conference venue is easy to reach via bus, 12 minutes door-by-door
   discount-code: <b>"ICN17"</b> (to get the rates above)
-  reservation-info: Use link below or contact <a href="mailto:info@steglitz.bestwestern.de">info@steglitz.bestwestern.de</a>.
+  reservation-info: Use link below and enter "ICN17" in the field "Room allotment code".
+  attention: <b>If you arrive before September 24</b> you cannot book your reservation using the link below, you need to conact the hotel directly via <a href="mailto:info@steglitz.bestwestern.de">info@steglitz.bestwestern.de</a>. Please note that the Berlin Marathon will take place on September 24, which may lead to higher rates for September 23.
   reservation-link: https://www.cbooking.de/v4/login.aspx?id=steglitzinternational&lang=en
   amenities: [Free WiFi, Free breakfast buffet]
   rates: [80 EUR single, 105 EUR twin or double room]
