@@ -6,6 +6,9 @@ group: Local Information
 
 ## {{ page.title }}
 
+* TOC
+{:toc}
+
 Berlin is the capital of Germany, and one of the most lively cities in Europe.
 It is one of the few cities to have three UNESCO World Heritage sites.
 In addition to the Museum Island and the Prussian royal palaces and gardens, Berlin's Modernist housing estates received the designation in 2008.
