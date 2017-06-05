@@ -48,6 +48,8 @@ menu:
       url: /cf-tutorials.html
     - name: Call for Posters and Demos
       url: /cf-posters-and-demos.html
+    - name: Call for Sites ACM ICN 2018
+      url: /cf-sites.html
 - name: Local Information
   submenu:
    - name: Venue &amp; Social Events
