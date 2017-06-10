@@ -58,6 +58,8 @@ menu:
      url: /accommodations.html
    - name: City &amp; Travel Tips
      url: /city.html
+- name: Side Events
+  url: /side-events.html
 - name: Organizing Committee
   url: /org-committee.html
 - name: Policies
