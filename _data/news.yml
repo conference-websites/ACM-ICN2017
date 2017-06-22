@@ -1,7 +1,7 @@
 - date: June 11, 2017
   news: <a href="side-events.html">Side events (T2TRG, RIOT Summit, ICNRG</a>) announced.
 - date: June 3, 2017
-  news: <a href="venue.html#welcome-reception-september-26">Welcome Reception</a> announced.
+  news: <a href="venue.html#welcome-reception-september-26" data-ajax="false">Welcome Reception</a> announced.
 - date: April 12, 2017
   news: <b>Updated <a href="submission.html">submission guidelines</a>. Authors must use the <a href="http://www.acm.org/publications/proceedings-template">new ACM templates</a> to prepare camera-ready versions.</b> Authors can also use <a href="https://github.com/conference-websites/acmart-sigproc-template">an unofficial LaTeX template</a> to simplify preparation of the manuscripts.
 - date: April 1, 2017
