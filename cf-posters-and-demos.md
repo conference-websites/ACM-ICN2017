@@ -132,7 +132,7 @@ In both cases, acceptance will be primarily based on review of the submitted abs
 
 ### Preparation of Abstracts
 
-Prepare your abstracts using [ACM SIG Alternate conference style](http://www.acm.org/sigs/publications/proceedings-templates). Word documents will not be accepted. The abstracts of accepted posters and demos will be available to all attendees at the conference.
+Prepare your abstracts using [ACM SIGCOMM format](http://www.acm.org/sigs/publications/proceedings-templates). Word documents will not be accepted. The abstracts of accepted posters and demos will be available to all attendees at the conference.
 
 It is highly encouraged that each **demo** proposal includes a video clip showcasing the work, in addition to the abstract. The video should be no more than 3 minutes and should give a good idea of what the demo is about and what it would look like. Including a video clip will help the committee better understand and evaluate your proposal.
 

@@ -54,11 +54,11 @@ workshops-papers-due:
 posters-submission:
   track: posters
   info: Submissions deadline
-  date: July 9, 2017 12am EDT
+  date: <del>July 9, 2017 12am EDT</del><br/> July 20, 2017 11:59pm EDT
 posters-notification:
   track: posters
   info: Acceptance Notification
-  date: July 31, 2017
+  date: <del>July 31, 2017</del><br/> August 10, 2017
 posters-due:
   track: posters
   info: Camera Ready Due
