@@ -10,7 +10,9 @@ Following last year’s successful tutorials, ACM ICN 2017 solicits proposals fo
 
 Tutorials may be lectures, hands-on training, or any combination of the above. Exploring diverse ways of interacting with the audience is welcome, as are cross-disciplinary topics. 
 
-Tutorial proposals should be submitted in PDF format, not exceeding three (3) pages in total, and be sent to the workshop/tutorial chairs.
+Tutorial proposals should be submitted in PDF format, not exceeding three (3) pages in total.
+Note that short biographies of the trainers can be added as appendix.
+A single PDF file should be sent to the workshop/tutorial chairs.
 
 [Contact tutorial co-chairs](mailto:aa@cs.ucla.edu,Jussi.Kangasharju@helsinki.fi?subject=[ACM ICN 2017]%20Tutorial%20Proposal){: data-role="button" class="button" }.
 
@@ -25,7 +27,7 @@ Tutorial proposals should be submitted in PDF format, not exceeding three (3) pa
 - Requirements for the attendees (e.g., must bring own laptop or other hardware, familiarity with certain technologies or topics, etc.)
 - Any other limitations (e.g., number of participants)
 - Any limitations (e.g., number of participants).
-- Detailed biographies of the trainers.
+- Detailed biographies of the trainers (not part of the page limit).
 
 ### Important note
 
