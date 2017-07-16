@@ -34,6 +34,8 @@ menu:
   url: /
 - name: Supporters
   url: /supporters.html
+- name: Program
+  url: /program.html
 - name: Program Committee
   url: /tpc.html
 - name: Calls
