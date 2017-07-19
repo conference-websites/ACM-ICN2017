@@ -14,8 +14,6 @@ After completing their rights management form, authors will be emailed the corre
 
 As rights management emails are sent from an automated system, there is a chance that emails sent will wind up in SPAM folders. Please make sure that you and your authors set email SPAM settings to allow emails from "rightsreview@acm.org".
 
-**Please note:** authors that have published their papers on arXiV before submission/acceptance of their papers in ACM ICN 2017 are required to publish their papers under "Open Access".
-
 ACM ICN 2017 also uses HotCRP for collecting camera ready submission. Please go to the ICN 2017 Submission Site at [https://icn17.hotcrp.com/](https://icn17.hotcrp.com/) or Posters and Demos Submission Site at [https://icn17posters.hotcrp.com](https://icn17posters.hotcrp.com). Please prepare your paper according to the instructions provided below :
 
 - Full papers should be no more than ten (10) single-spaced pages, including figures, tables, appendices, etc. References do not count to the page limit and in order to ensure adequate citation of related work, extra pages of references are allowed (and encouraged).
