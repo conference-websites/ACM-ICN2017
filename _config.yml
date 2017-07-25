@@ -38,8 +38,19 @@ menu:
   url: /registration.html
 - name: Program
   url: /program.html
-- name: Program Committee
-  url: /tpc.html
+- name: Tutorials
+  submenu:
+    - name: NDN, CCN-lite, RIOT
+      url: /tutorial-ndn-ccnlite-riot.html
+      icon: fa-circle
+    - name: Community ICN
+      url: /tutorial-fd-io-cicn.html
+      icon: fa-adjust
+    - name: Umobile
+      url: /tutorial-umobile.html
+      icon: fa-adjust
+- name: Side Events
+  url: /side-events.html
 - name: Calls
   submenu:
     - name: Call for Papers
@@ -64,8 +75,8 @@ menu:
      url: /accommodations.html
    - name: City &amp; Travel Tips
      url: /city.html
-- name: Side Events
-  url: /side-events.html
+- name: Program Committee
+  url: /tpc.html
 - name: Organizing Committee
   url: /org-committee.html
 - name: Policies
