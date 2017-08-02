@@ -53,6 +53,8 @@ menu:
   url: /side-events.html
 - name: Calls
   submenu:
+    - name: Travel Grants
+      url: /travel-grants.html
     - name: Call for Papers
       url: /cfp.html
     - name: Submission Details
@@ -63,8 +65,6 @@ menu:
       url: /cf-supporters.html
     - name: Call for Tutorials
       url: /cf-tutorials.html
-    - name: Travel Grants
-      url: /travel-grants.html
     - name: Call for Posters and Demos
       url: /cf-posters-and-demos.html
     - name: Call for Sites ACM ICN 2018
