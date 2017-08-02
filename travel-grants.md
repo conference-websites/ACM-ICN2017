@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ACM ICN 2017 Travel Grants
-group: travelgrants
+group: Calls
 ---
 
 ## {{ page.title }}
