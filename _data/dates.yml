@@ -64,6 +64,19 @@ posters-due:
   info: Camera Ready Due
   date: August 21, 2017
 
+travel-submission:
+  track: travel
+  info: Travel Grant Application Submission Deadline
+  date: August 16, 2017 (23:59 CET)
+travel-notification:
+  track: travel
+  info: Travel Grant Award Notification
+  date: August 23, 2017 (23:59 CET)
+travel-due:
+  track: travel
+  info: Deadline to Accept/Decline Travel Grant Award
+  date: August 30, 2017
+
 conference:
   track: main
   info: Conference
