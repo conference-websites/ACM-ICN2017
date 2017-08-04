@@ -135,7 +135,7 @@ complement to NDN.
   </p>"
 
 - name: Alex Afanasyev
-  affiliation: Florida Unternational University
+  affiliation: Florida International University
   bio: "<p>
   Alex Afanasyev is an Assistant Professor in the School of Computing and
   Information Sciences in Florida International University. He received his
