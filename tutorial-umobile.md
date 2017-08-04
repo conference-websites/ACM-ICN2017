@@ -62,10 +62,71 @@ Networks from the same University. He is currently a PhD candidate under the
 advisory of Prof. Vassilis Tsaoussidis. His research interests lie in the fields of novel
 networking technologies, and transport and routing mechanisms for DTNs.</p>"
 
+- name: Christos-Alexandros Sarros
+  affiliation: Democritus University of Thrace
+  bio: "<p>Christos-Alexandros Sarros obtained his diploma in Electrical and Computer Engineering from the Democritus University of Thrace, in 2016. Currently, he is pursuing a PhD on the same university under the advisory of Prof. Vassilis Tsaoussidis and is working as an associate researcher in Athena Research and Innovation Center in Xanthi. His research interests lie in the area of Delay/Disruption Tolerant Networking and Information-Centric Networking.  He has worked extensively on DTN, studying the use of DTN traffic shaping for energy efficiency, and is a co-author of a conference paper on the topic. Since March 2016, he has been involved in the integration of DTN tunneling into the Named Data Networking architecture in the context of the UMOBILE project.</p>"
+
 ---
 
 ## {{ page.title }}
 
-### Presenters
+### Overview
+* TOC
+{:toc}
+
+### Trainers
 
 {% include presenters.html presenters=page.presenters %}
+
+### Motivation
+
+Cars, sensors, home appliances, every device in the daily life of citizens is becoming a constituent in Future Internet, adding to the need to reconsider requirements and assumptions in terms of network availability and affordability to support the ever-increasing traffic demand. Still, the current Internet can only evolve adequately, if its infrastructure can be devised to accommodate the emerging services. The increased cost of adding new infrastructure and capacity has a drastic effect on rural and remote communities as well as nomadic users as they become marginalized by not gaining access to crucial Internet services. Our goal is to make the Future Internet universally pervasive supporting a diverse set of services.
+
+To achieve this, we develop a Universal Mobile-centric and Opportunistic communications architecture (UMOBILE), which integrates the principles of Delay Tolerant Networking (DTN) and Information Centric Networking (ICN) in a common framework. By relying on an instance of the UMOBILE architecture, users are able to share information directly with other peers without relying on infrastructure or expensive connectivity services; providers are able to provide services in remote areas as well as in scenarios with intermittent internet access.
+
+This tutorial intends to go over three main innovation aspects concerning ICN: i) NDN operation in opportunistic wireless networks based in contextual awareness; ii) the integration of DTN and NDN to facilitate communications when network is impaired; iii) the UMOBILE Lab: the first NDN/ICN testbed federated in Europe. 
+
+
+### Tutorial outline (half day schedule)
+
+**i)	UMOBILE in a nutshell (10 min)**
+<br/>
+Introduction on the UMOBILE architecture, its design and its modules
+
+**ii)	The UMOBILE lab (20 min)**
+<br/>
+In this section of the tutorial, a detailed description of UMOBILE Lab and its configuration, will be provided. A list of available devices, with their IP addresses and hostname, will be shared with participants. Attendees will learn:
+* how to use the lab;
+* how to access each device in the lab;
+* how to test NDN Network using a Linux device.
+
+**iii)	NDN-DTN integration (20 min)**
+<br/>
+In this section, attendees will be able to experiment with the DTN interface that has been integrated into the NDN platform. By deliberately inducing network impairments, we will showcase the benefits of the integration.
+
+**iv)	NDN operation in Opportunistic Wireless Networks (40 min)**
+<br/>
+We'll describe the NDN framework for Opportunistic Networks (NDN-Opp),
+which is being developed aiming to support opportunistic forwarding based on users' interests and their dynamic social behavior. NDN-Opp will be demonstrated in a micro-blogging urban scenarios in which a user, makes use of the Now@ application to generate and share expressions of interest in the form of tagged information (e.g., nearby supermarket offers or restaurant review), as well as to generate data related to those interests. This demo aims to show how NDN-Opp allows users to benefit from locally available information.
+
+**v)	Social-aware metrics derived from contextualization (40 min)**
+<br/>
+UMOBILE integrates in its end-user service application the Contextual Manager (CM), a module that assists in a more efficient data dissemination via capturing and infering network and proximity context. 
+In this tutorial we shall go over the UMOBILE contextual manager and explain two main families of routing metrics: i) how the contextual manager can provide metrics derived from encounter duration; ii) how the contextual manager can provide metrics derived from interests and interest matching.
+
+**vi)	Applications (40 min)**
+<br/>
+Attendees will be able to experiment with Now@ and Oi!, two applications developed to run over the UMOBILE platform.
+Now@ is an Android application which enables users to share data based on their interests over an NDN infrastructure. 
+Oi! is an application that allows users to send short messages independently of their location and current Internet connectivity. 
+
+### Type of tutorial
+* Hands-on
+
+### Requirements for the attendees
+* Android smartphone capable of running the most recent version of NDN for Android. Ideally, attendees should also have pre-installed and tested the full Named Data Networking platform. 
+
+* Reasonable conceptual and practical familiarity with the NDN architecture and the fundamentals of Interest/Data exchange. 
+
+* Prior to the tutorial, we will distribute all related UMOBILE software that will be demonstrated during the tutorial.
+
