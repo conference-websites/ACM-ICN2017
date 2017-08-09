@@ -22,11 +22,12 @@ logo:
 # ACM ICN'2017 tracking
 google_analytics_id: UA-83529610-2
 
-# program:
-#   # If the specified file doesn't exist, there will be command-line dialog to create it
-#   google_client_id: .travis.d/google_client_id.json
-#   # Google spreadsheet with the conference data
-#   spreadsheet: 1J-lppI-_qcclJbmP3DN_xhgKnJnL6S344BUQQ9JbvIE
+program:
+  # If the specified file doesn't exist, there will be command-line dialog to create it
+  # (Currently hardcoded for a dummy robot.mcrobot.jr@gmail.com account permissions)
+  google_client_id: .travis.d/google_client_id.json
+  # Google spreadsheet with the conference data
+  spreadsheet: 1FQhqhrt0XUsKtJ1Vl7QzVifMWKe84JcxBhBDSshrM2U
 
 # Configuration for navbar.html
 menu:
