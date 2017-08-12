@@ -17,7 +17,8 @@ As rights management emails are sent from an automated system, there is a chance
 ACM ICN 2017 also uses HotCRP for collecting camera ready submission. Please go to the ICN 2017 Submission Site at [https://icn17.hotcrp.com/](https://icn17.hotcrp.com/) or Posters and Demos Submission Site at [https://icn17posters.hotcrp.com](https://icn17posters.hotcrp.com). Please prepare your paper according to the instructions provided below :
 
 - Full papers should be no more than ten (10) single-spaced pages, including figures, tables, appendices, etc. References do not count to the page limit and in order to ensure adequate citation of related work, extra pages of references are allowed (and encouraged).
-- For short papers the limit is six (6) pages, excluding references, and for posters and demos the page limit is two (2) single-spaced pages, excluding references.
+- For short papers the limit is six (6) pages, EXCLUDING references. 
+- For posters and demos the page limit is two (2) single-spaced pages, INCLUDING references.
 - Include names and affiliations of all authors in the title page.
 - Please do NOT number the pages of your camera-ready paper.
 - ACM templates can be found under: [http://www.acm.org/publications/proceedings-template](http://www.acm.org/publications/proceedings-template)
