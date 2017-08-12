@@ -44,7 +44,7 @@ menu:
     - name: NDN, CCN-lite, RIOT
       url: /tutorial-ndn-ccnlite-riot.html
       icon: fa-circle
-    - name: Community ICN
+    - name: FD.io/cicn
       url: /tutorial-fd-io-cicn.html
       icon: fa-adjust
     - name: Umobile

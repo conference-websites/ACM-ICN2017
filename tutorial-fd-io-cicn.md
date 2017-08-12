@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Half-Day Tutorial: Community Information-Centric Networking"
+title: "Half-Day Tutorial: Community Information-Centric Networking (FD.io/cicn)"
 group: Tutorials
 
 data:
@@ -94,6 +94,69 @@ forwarding protocols.</p>"
 
 ## {{ page.title }}
 
-### Presenters
+### Overview
+* TOC
+{:toc}
+
+### Trainers
 
 {% include presenters.html presenters=page.presenters %}
+
+### Motivation
+
+CICN is part of the open source project FD.io in the Linux Foundation. Participation
+in FD.io is based on active involvement of individuals to software
+development and testing.
+
+The project scope includes CCN network architecture implementation: packet
+processing as well as network socket API. Packet processing will be made available
+through two main forwarders one based on the Vector Packet Processing
+(VPP) framework and one based on sockets to deploy CCN in non VPP environments.
+The project will focus on the CCNx 1.0 specification as a reference
+implementation, but able to evolve by keeping track of the work done in IRTF
+ICN research group. While the main focus is on VPP plugin, the socket based
+forwarder will be used to enable end-to-end chains testing, supporting end
+devices that do not support VPP. Moreover, for the VPP forwarder, CCNx 1.0
+packets will be transported using IPv4, IPv6, Ethernet and WiFi encapsulation.
+
+The objective of the tutorial is to make the audience familiar with the CICN
+project and make the ICN community being able to use the available software
+for experimental research, demonstrations, proofs of concepts and more.
+
+The tutorial targets both software developers as well as software users. Software
+developers will learn the continuous integration facility available in the
+Linux foundation as well as the project governance to directly contribute to
+the software development and testing.
+
+The CICN project has been launched in March 2017 and the ICN community
+attending the ACM ICN conference can take advantage of the tutorial to gain
+the basic knowledge to get advantage of the CICN project.
+
+The main objective of this tutorial is to let researchers, students, software
+developers, network experimenters to be quickly able to use the software for
+their own needs. The attendee at the end of the tutorial should be able to
+perform the following tasks with CICN:
+
+* Understand Vector Packet Processing;
+* Write applications that make use of the consumer/producer socket API;
+* Deploy a network testbed made of several components such as software routers in Linux containers, end-points such as data producers and consumers, collect network analytics;
+
+### Tutorial outline (half day schedule)
+
+The tutorial duration is half-day
+and would cover the following
+items:
+
+1. CICN project overview (30 min);
+
+2. Vector Packet Processing for ICN (60 min);
+
+3. break (30 min);
+
+4. vICN: configuration, management and control of an virtual ICN network (60min);
+
+5. Applications: Consumer/ Producer Socket API, MPEG-DASH over ICN (30 min).
+
+### Requirements for the attendees
+
+The attendee is familiar with GNU Linux OS, basic knowledge of Information-Centric Networking in particular CCN/NDN. Optionally, the attendee that is familiar with Linux containers, software-defined networking might want to actively reproduce virtual network testbed deployed during the tutorial.
