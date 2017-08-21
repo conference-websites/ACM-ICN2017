@@ -34,8 +34,6 @@ hotels:
   deadline: The hotel has only very few rooms available.
   map: "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1215.6352030609073!2d13.294112276154346!3d52.456130094925776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x47a85a6e3c087b7b%3A0xbb7374dc78069e69!2sSeminaris+CampusHotel+Berlin%2C+Takustra%C3%9Fe+39%2C+14195+Berlin%2C+Germany!3m2!1d52.4571569!2d13.29389!4m5!1s0x47a85a6f8915d465%3A0x3da1e59277049589!2sFreie+Universit%C3%A4t+Berlin+-+Institut+f%C3%BCr+Informatik%2C+Takustra%C3%9Fe+9%2C+14195+Berlin%2C+Germany!3m2!1d52.455889199999994!2d13.2972013!5e0!3m2!1sen!2sde!4v1499873950304"
 
-- id: tba
-  name: TBA
 ---
 
 ## {{ page.title }}
