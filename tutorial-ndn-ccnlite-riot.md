@@ -199,6 +199,126 @@ the RIOT operating system.
 
 ## {{ page.title }}
 
-### Presenters
+### Overview
+* TOC
+{:toc}
+
+### Trainers
 
 {% include presenters.html presenters=page.presenters %}
+
+
+### Motivation
+
+Information-Centric Networking (ICN) is a promising approach
+to address the needs of Internet-of-Things (IoT) applications
+natively at the network level. Instead of sending
+packets between source and destination devices identified by
+numeric IP addresses, in ICN the network disseminates the
+named and secured pieces of data, forwarding directly on names
+that carry application semantics, avoiding the need to do complex
+mapping between applications names and network identifiers.
+
+In this tutorial we introduce tools needed to build and evaluate
+IoT applications using ICN. Using a set of simple driving
+application examples, we plan to demonstrate a functional ICN
+interactions across different hardware and software platforms,
+raning from constrained devices (e.g., ARM Cortex-M microcontrollers)
+up to fully-fledged systems (e.g., Laptops). Our
+joint team of RIOT, NDN, and CCN-lite developers will guide
+participants through the hands-on exercises and deployment
+processes, encouraging interested students and researchers to
+further engage with ICN in IoT.
+
+### Tutorial outline (full day schedule)
+
+
+The full-day tutorial (9 hours including coffee breaks and
+lunch) consists of three parts:
+
+* ICN/IoT background (1.5 hours)
+* Core concepts of RIOT, NDN-RIOT and CCN-lite (1.5 hours)
+* Hands-on programming with NDN-RIOT and CCN-Lite on RIOT or UNIX based systems (4 hours)
+
+#### ICN/IoT Background
+We will start introducing ICN principles and highlight unique
+characteristics of ICN for building IoT applications. Later, a
+short demo presents the functionality and interoperability of
+the presented components and teases what will be shown in
+the tutorial.
+
+Data security is one important requirement for IoT applications.
+Unlike traditional TCP/IP stack, ICN embeds security
+primitives in the networking layer-each data packet keeps integrity,
+authenticity, and (when needed) confidentiality properties
+no matter where it is stored or how it is retrieved. As part
+of this introduction, we will highlight important properties of
+ICN/NDN data-centric security and showcase existing work to
+automate its complex parts.
+
+#### Essential Concepts and Tools
+In this part we will present various ICN tools that are available
+in the context of IoT.
+
+**RIOT** We will describe the structure and key design and usage
+elements of RIOT, an open-source operating system for
+resource-constrained IoT devices. RIOT targets resource constrained
+devices with very limited memory, CPU speed and
+energy supply (kB, MHz, mW) and provides users with a feature
+rich and extensible networking system.
+
+**NDN-RIOT** We plan to introduce NDN-RIOT, an open-source
+implementation of NDN protocol stack for RIOT, its structure,
+APIs, and a few basic example how to create a simple NDNpowered
+application for RIOT.
+NDN-Android We will showcase how to enable NDN stack
+on Android devices (i.e., by installing NDN-Android from Google
+Play store) and show how to make a simple Android NDN apps
+using jNDN.
+
+**CCN-Lite** We plan to also introduce, give overview, and
+showcase available tools for CCN-Lite, a lightweight implementation
+of NDN/CCN supporting major packet formats such
+as NDN and CCNx 1.0. CCN-Lite can run on different platforms
+including Linux/Mac OS, RIOT, Arduino, Android, etc.
+CCN-Lite consists of a core library, a packet encoding library
+and a forwarder.
+
+**FIT IoT-Lab Testbed** We will introduce tutorial participants
+to the IoT-Lab Testbed, which consists of various constrained
+devices (ARM Cortex M3, 32-bits, 72 Mhz, 64kB RAM). This
+testbed is free and open for researchers worldwide, allowing
+experimentation with IEEE 802.15.4 network in large-scale
+scenarios.
+
+**Named Function Networking** We also plan to give a brief
+introduction of Named Function Networking (NFN), an innetwork
+computation platform for ICN. NFN enables to define
+user defined functions and workflows. NFN executes computations
+transparent to the user and optimizes on which device
+the computation is executed.
+
+#### Hands-on
+For the hands-on session, we plan to split into three tracks,
+each working at their own speed and supported by tutors:
+
+1. Demo-style track: a presentation will show how to setup
+RIOT nodes and full integration into an ICN network
+
+2. Hacking track 1: real-time developing of an application
+to publish and read sensor data from constrained devices
+using NDN-RIOT / CCN-lite on RIOT; showcasing use
+of FIT IoT-lab testbed.
+
+3. Hacking track 2: developing a processing pipeline for
+sensor data on NDN or CCN-lite with NFN on Unix systems.
+Merging the efforts At the end of the hands-on session, we
+plan to merge the group projects. The sensor data from the
+RIOT side should be collected by the relay on the Unix side
+and processed by the developed pipelines. Furthermore, we
+use NDN-JS or NDN Browser Plugins to visualizes the resulting
+data.
+
+### Requirements for the attendees
+
+Participants should bring their own laptop and smartphone or tablet.
