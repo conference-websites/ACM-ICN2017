@@ -240,6 +240,31 @@ lunch) consists of three parts:
 * Core concepts of RIOT, NDN-RIOT and CCN-lite (1.5 hours)
 * Hands-on programming with NDN-RIOT and CCN-Lite on RIOT or UNIX based systems (4 hours)
 
+| Start  | Len | Topic  |
+|---|---|:--|
+|09:00  | 15' | Welcome, brief ICN intro  |
+|09:15  | 15'  | Why IoT with ICN  |
+|09:30  | 10'  | Quick ICN+IoT Demo  |
+|09:40  | 20'  | Setup & Hand out PIs  |
+|10:00  | 30'  | "hello world" hands-on (incl basic intro to RIOT)  |
+|10:30  | 30'  | break  |
+|11:00  | 25'  | NDN-RIOT  |
+|11:25  | 25'  | CCN-lite  |
+|11:50  | 20'  | NDN Security  |
+|12:10  | 20'  | IoT-LAB  |
+|12:30  | 60'  | lunch  |
+|13:30  | 25'  | NDN-Android  |
+|13:55  | 25'  | NFN  |
+|14:20  | 10'  | Sign up for parallel tracks  |
+|14:30  | 60'  | Track 1 -- Demo-style (for PIs) |
+|       |      | Track 2 -- Hacking RIOT |
+|       |      | Track 3 -- Hacking NFN  |
+|15:30  | 30'  | break  |
+|16:00  | 60'  | Tracks 1, 2, 3 (contd)  |
+|17:00  | 10'  | Walk back to the main room  |
+|17:10  | 50'  | Wrap up and Q&A  |
+|18:00  |      | (end, reception at 7pm)  |
+
 #### ICN/IoT Background
 We will start introducing ICN principles and highlight unique
 characteristics of ICN for building IoT applications. Later, a
