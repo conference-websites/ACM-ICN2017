@@ -62,14 +62,31 @@ hotels:
   deadline: n/a
   map: "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d38880.839514751184!2d13.281977261076104!3d52.47818568184591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x47a850540a68b3b1%3A0xe5fe0f852a0f1f0!2sHotel+Pension+Classic+Berlin%2C+Wittenbergpl.+5%2C+10789+Berlin!3m2!1d52.502682!2d13.3434025!4m5!1s0x47a85a6f88541d59%3A0xf7b0d707ea687d91!2sTakustra%C3%9Fe+9%2C+Berlin!3m2!1d52.455859!2d13.2972068!5e0!3m2!1sen!2sde!4v1504002898745"
 
+- id: nh
+  name: Hotel NH Berlin Potsdamer Platz (****)
+  url: https://www.nh-hotels.com/hotel/nh-berlin-potsdamer-platz
+  address: Hotel NH Berlin Potsdamer Platz<br> Stresemannstr. 47 <br> 10963 Berlin, Germany
+  distance: 11 km / 6.8 miles
+  discount-code: n/a
+  reservation-info: Use link below.
+  reservation-link: https://www.nh-hotels.com/hotel/nh-berlin-potsdamer-platz
+  amenities: [Free WiFi]
+  rates: [starting at 140 EUR single]
+  rating: 4
+  deadline: n/a
+  map: "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d38886.54273396279!2d13.303008961028004!3d52.47173138920162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x47a8502d2a8b64cf%3A0xce19500a9b643c01!2sHotel+NH+Berlin+Potsdamer+Platz%2C+Stresemannstra%C3%9Fe%2C+Berlin!3m2!1d52.501644999999996!2d13.385563999999999!4m5!1s0x47a85a6f88541d59%3A0xf7b0d707ea687d91!2sTakustra%C3%9Fe+9%2C+14195+Berlin!3m2!1d52.455859!2d13.2972068!5e0!3m2!1sen!2sde!4v1504007453453"
+
 ---
 
 ## {{ page.title }}
 
 The main conference venue is the [Computer Science Building of Freie Unviersit&auml;t Berlin](venue.html).
 Below is a list of nearby hotels.
-We blocked a sufficient number of rooms in the Best Western Plus.
-The location of the hotel provides a nice tradeoff, it is closely connected to both the conference venue and the rest of the city.
+We blocked a number of rooms in the Best Western Plus.
+The location of this hotel provides a nice tradeoff, it is closely connected to both the conference venue and the rest of the city.
+Below, we also list hotels that are a bit more far away but directly located in the more lively areas of Berlin.
+
+In general, any hotel that is closely located to the metro line (U-Bahn) U3 or to the local train (S-Bahn) line S3 allows for easy commuting.
 
 {% for hotel in page.hotels %}
 {% include hotel.html expanded=forloop.first %}

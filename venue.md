@@ -10,7 +10,7 @@ group: Local Information
 {:toc}
 
 {{ site.title }} takes place at Freie Universit&auml;t Berlin, Germany.
-FU Berlin is located in the south of Berlin
+FU Berlin is located in the south of Berlin.
 Even located in the quiet area of Berlin, FU Berlin is perfectly connected via public transport to all major touristic attractions in Berlin, which might be an option before or after the conference.
 Some attractions are even in walking distance, such as the Botanical Garden or the Ethnological Museum.
 
