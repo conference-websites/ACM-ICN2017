@@ -62,6 +62,20 @@ hotels:
   deadline: n/a
   map: "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d38880.839514751184!2d13.281977261076104!3d52.47818568184591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x47a850540a68b3b1%3A0xe5fe0f852a0f1f0!2sHotel+Pension+Classic+Berlin%2C+Wittenbergpl.+5%2C+10789+Berlin!3m2!1d52.502682!2d13.3434025!4m5!1s0x47a85a6f88541d59%3A0xf7b0d707ea687d91!2sTakustra%C3%9Fe+9%2C+Berlin!3m2!1d52.455859!2d13.2972068!5e0!3m2!1sen!2sde!4v1504002898745"
 
+- id: ibiskudamm
+  name: Ibis Berlin Kurf&uuml;rstendamm (**)
+  url: http://www.ibis.com/gb/hotel-7961-ibis-berlin-kurfuerstendamm/index.shtml
+  address: Ibis Berlin Kurf&uuml;rstendamm <br> Bayreuther Str. 39 <br> 10787 Berlin, Germany
+  distance: 7.5 km / 4.7 miles
+  discount-code: n/a
+  reservation-info: Use link below.
+  reservation-link: http://www.ibis.com/gb/hotel-7961-ibis-berlin-kurfuerstendamm/index.shtml
+  amenities: [Free WiFi]
+  rates: [starting at 95 EUR single]
+  rating: 4.5
+  deadline: n/a
+  map: "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d38880.81234191866!2d13.282201861076317!3d52.47821643181084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x47a850538db20555%3A0x15fab0638a67be44!2sBayreuther+Str.+39%2C+10787+Berlin!3m2!1d52.502733199999994!2d13.344621!4m5!1s0x47a85a6f88541d59%3A0xf7b0d707ea687d91!2sTakustra%C3%9Fe+9%2C+Berlin!3m2!1d52.455859!2d13.2972068!5e0!3m2!1sen!2sde!4v1504020965403"
+
 - id: nh
   name: Hotel NH Berlin Potsdamer Platz (****)
   url: https://www.nh-hotels.com/hotel/nh-berlin-potsdamer-platz
