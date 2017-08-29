@@ -5,5 +5,5 @@
     [100, "bosch.png", "http://www.bosch.com/", "bosch", 0, 303, 1280, "bronze"],
     [100, "msa.png", "http://msasafety.com/", "msa", 0, 103, 216, "bronze"],
     [10, "fub.png", "http://www.fu-berlin.de/", "fub", 0, 273, 1024, "university"],
-    [10, "hawh02.gif", "http://www.haw-hamburg.de/", "hawh", 0, 206, 1024, "university"],
+    [10, "hawh.png", "http://www.haw-hamburg.de/", "hawh", 0, 206, 1024, "university"],
 ]
