@@ -34,6 +34,34 @@ hotels:
   deadline: The hotel has only very few rooms available.
   map: "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1215.6352030609073!2d13.294112276154346!3d52.456130094925776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x47a85a6e3c087b7b%3A0xbb7374dc78069e69!2sSeminaris+CampusHotel+Berlin%2C+Takustra%C3%9Fe+39%2C+14195+Berlin%2C+Germany!3m2!1d52.4571569!2d13.29389!4m5!1s0x47a85a6f8915d465%3A0x3da1e59277049589!2sFreie+Universit%C3%A4t+Berlin+-+Institut+f%C3%BCr+Informatik%2C+Takustra%C3%9Fe+9%2C+14195+Berlin%2C+Germany!3m2!1d52.455889199999994!2d13.2972013!5e0!3m2!1sen!2sde!4v1499873950304"
 
+- id: mercure
+  name: Mercure Hotel Berlin Wittenbergplatz (****)
+  url: http://www.mercure.com/gb/hotel-9147-mercure-hotel-berlin-wittenbergplatz/index.shtml
+  address: Mercure Hotel Berlin Wittenbergplatz<br> Wittenbergplatz 3 <br> 10789 Berlin, Germany
+  distance: 7.5 km / 4.7 miles
+  discount-code: n/a
+  reservation-info: Use link below.
+  reservation-link: http://www.mercure.com/gb/hotel-9147-mercure-hotel-berlin-wittenbergplatz/index.shtml
+  amenities: []
+  rates: [starting at 89 EUR queen sized bed]
+  rating: 4.5
+  deadline: n/a
+  map: "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d38880.605740728424!2d13.28146993794603!3d52.47845023033317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x47a85056ac4c1785%3A0xaccfc1f2e26c93a5!2sMercure+Berlin+Wittenbergplatz%2C+Wittenbergpl.+3%2C+10789+Berlin!3m2!1d52.50087!2d13.34243!4m5!1s0x47a85a6f88541d59%3A0xf7b0d707ea687d91!2sTakustra%C3%9Fe+9%2C+Berlin!3m2!1d52.455859!2d13.2972068!5e0!3m2!1sen!2sde!4v1504003244305"
+
+- id: classic
+  name: Hotel Pension Classic Berlin (**)
+  url: http://classic-hotel-berlin.de/en/
+  address: Hotel Pension Classic Berlin<br> Wittenbergplatz 5 <br> 10789 Berlin, Germany
+  distance: 7.5 km / 4.7 miles
+  discount-code: n/a
+  reservation-info: Use link below.
+  reservation-link: http://classic-hotel-berlin.de/en/
+  amenities: [Free WiFi, free breakfast]
+  rates: [starting at 49 EUR single, starting at 59 EUR twin]
+  rating: 4
+  deadline: n/a
+  map: "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d38880.839514751184!2d13.281977261076104!3d52.47818568184591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x47a850540a68b3b1%3A0xe5fe0f852a0f1f0!2sHotel+Pension+Classic+Berlin%2C+Wittenbergpl.+5%2C+10789+Berlin!3m2!1d52.502682!2d13.3434025!4m5!1s0x47a85a6f88541d59%3A0xf7b0d707ea687d91!2sTakustra%C3%9Fe+9%2C+Berlin!3m2!1d52.455859!2d13.2972068!5e0!3m2!1sen!2sde!4v1504002898745"
+
 ---
 
 ## {{ page.title }}
