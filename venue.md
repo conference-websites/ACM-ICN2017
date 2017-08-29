@@ -60,6 +60,14 @@ Depending on the weather conditions, food and drinks will be served inside or ou
 
   > [Homepage](http://www.smb.museum/en/museums-institutions/museum-europaeischer-kulturen/home.html)
 
+### Guided city tour to the banquet, September 27
+
+To make the ride to the banquet more interesting, we organize a guided city tour to the venue of the banquet.
+We will meet at the local train station Friedrichstr., split in groups of 30 people, and then walk to the banquet (45-60 minutes).
+The tour is organized by professional tour guides, explaining you all details about the historic neighborhood and giving you insights outside of the common tourist paths.
+
+More details will follow.
+
 ### Banquet, September 27
 
 The banquet of ACM ICN 2017 will take plaec at a historic venue, the Spiegelsaal (<i>mirrored ballroom</i>) of Cl&auml;rchens Ballhaus.
