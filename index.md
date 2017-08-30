@@ -14,8 +14,14 @@ The organizing committee is delighted to invite you to ACM ICN 2017, to be held 
 
 The fundamental concept in Information-Centric Networking (ICN) is to provide accessing named data as a principal network service, evolving the Internet from today's host based packet delivery towards directly retrieving information objects by names in a secure, reliable, scalable, and efficient way. These architectural design efforts aim to directly address the challenges that arise from the increasing demands for highly scalable content distribution, from accelerated growths of mobile devices, from wide deployment of Internet-of-things (IoT), and from the need to secure the global Internet. {{ site.title }} will be a single track conference focusing on current ICN research topics, featuring paper presentations and demonstrations.
 
-This year’s keynote will be given by [Jon Crowcroft](https://www.cl.cam.ac.uk/~jac22), Marconi Professor of Communications Systems at University of Cambridge, and distinguished
+This year's keynote will be given by [Jon Crowcroft](https://www.cl.cam.ac.uk/~jac22), Marconi Professor of Communications Systems at University of Cambridge, and distinguished
 expert in Communications, Multimedia, and Social Systems.
+
+<p>
+<br/>
+  <!--<a href="http://127.0.0.1:4000/acm-icn/2017/registration.html" target="_blank" data-role="button" class="button">Online registration coming soon</a>-->
+  <a href="registration.html" data-role="button" class="button">Registration</a>
+</p>
 
 ## News
 
