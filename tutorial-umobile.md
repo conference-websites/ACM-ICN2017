@@ -54,16 +54,8 @@ Antipolis, France). She has been involved in several EU projects. She currently 
 the position of Multimedia IP Platform Senior Engineer at AFA Systems, in Research
 and Development department. She is Project Leader in projects of advanced IP communications. </p>"
 
-- name: Sotiris Diamantopoulos
-  affiliation: Democritus University of Thrace
-  bio: "<p>Sotiris Diamantopoulos received a Diploma in Electrical and Computer Engineering
-from Democritus University of Thrace, Greece in 2008, and a M.Sc. in Computer
-Networks from the same University. He is currently a PhD candidate under the
-advisory of Prof. Vassilis Tsaoussidis. His research interests lie in the fields of novel
-networking technologies, and transport and routing mechanisms for DTNs.</p>"
-
-- name: Christos-Alexandros Sarros
-  affiliation: Democritus University of Thrace
+- name: Alexandros-Christos Sarros
+  affiliation: Athena Research and Innovation Center
   bio: "<p>Christos-Alexandros Sarros obtained his diploma in Electrical and Computer Engineering from the Democritus University of Thrace, in 2016. Currently, he is pursuing a PhD on the same university under the advisory of Prof. Vassilis Tsaoussidis and is working as an associate researcher in Athena Research and Innovation Center in Xanthi. His research interests lie in the area of Delay/Disruption Tolerant Networking and Information-Centric Networking.  He has worked extensively on DTN, studying the use of DTN traffic shaping for energy efficiency, and is a co-author of a conference paper on the topic. Since March 2016, he has been involved in the integration of DTN tunneling into the Named Data Networking architecture in the context of the UMOBILE project.</p>"
 
 ---
