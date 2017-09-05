@@ -3,7 +3,7 @@ layout: default
 title: Conference Program
 og_tags:
   - property: og:description
-    content: We are delighted to announce the ACM ICN 2017 main conference program.  
+    content: We are delighted to announce the ACM ICN 2017 main conference program.    
 ---
 
 <h2>Conference Program</h2>
@@ -49,13 +49,17 @@ creation and use of private name spaces.
 <!--<footer><cite title="Abstract">Abstract</cite></footer>-->
 </blockquote>
 
+<h3>Schedule</h3>
+<div id="prog_ctrl" data-role="navbar">
+  <ul>
+    <li><a href="#" onClick="filter('tuesday');">Tuesday</a></li>
+    <li><a href="#" onClick="filter('wednesday');">Wednesday</a></li>
+    <li><a href="#" onClick="filter('thursday');">Thursday</a></li>
+    <li><a href="#" onClick="filter('all');" class="ui-btn-active ui-state-persist roundright">All Days</a></li>
+  </ul>
+</div>
 
-<h3>List of Accepted Papers</h3>
-<p>Note that paper titles might be slightly different in the final
-proceedings. Before citing one of the papers below, please wait until the
-proceedings are published.</p>
-
-{% include program-online.html type="accepted-papers" %}
+{% include program-online.html type="program" %}
 
 <h3>List of Accepted Posters</h3>
 {% include program-online.html type="posters" %}
