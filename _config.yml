@@ -167,3 +167,5 @@ colors:
 
   program:
     break-background: d1d1d1
+    session-background: 0063A9
+    social-background: ffbe00

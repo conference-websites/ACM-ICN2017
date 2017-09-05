@@ -372,6 +372,10 @@ table tr {
     text-align: center !important;
     font-weight: 600;
     margin: 0.3em 0em;
+    background-color: none;
+	-moz-box-shadow: 0 0px 0px rgba(0,0,0,.3);
+	-webkit-box-shadow: 0 0px 0px rgba(0,0,0,.3);
+	box-shadow:0 0px 0px rgba(0,0,0,.3);
 }
 
 .content-primary .program .prog-no-filter {
@@ -445,7 +449,7 @@ table tr {
 
 .content-primary .program .ui-bar-a {
     padding: 0em 1.0em;
-    background-color: #{{ site.colors.highlight }};
+    background-color: #{{ site.colors.program.session-background }};
     border-color: #bbb;
 }
 
@@ -458,6 +462,9 @@ table tr {
     color: #FFFFFF;
     text-align: left;
     text-shadow: none;
+    background-color: transparent;
+	-moz-box-shadow: 0 0px 0px rgba(0,0,0,.3);
+	-webkit-box-shadow: 0 0px 0px rgba(0,0,0,.3);
 }
 
 .content-primary .program .ui-bar-b {
@@ -471,19 +478,25 @@ table tr {
     color: #000000;
     text-align: left;
     text-shadow: none;
+    background-color: transparent;
+	-moz-box-shadow: 0 0px 0px rgba(0,0,0,.3);
+	-webkit-box-shadow: 0 0px 0px rgba(0,0,0,.3);
 }
 
 .content-primary .program .prog-social {
     padding: 0em 1.0em;
-    background-color: #558282;
+    background-color: #{{ site.colors.program.social-background }};
     border-color: #bbbbbb;
 }
 
 .content-primary .program .prog-social h3 {
     font-weight: 500;
-    color: #FFFFFF;
+    color: #000000;
     text-align: left;
     text-shadow: none;
+    background-color: transparent;
+	-moz-box-shadow: 0 0px 0px rgba(0,0,0,.3);
+	-webkit-box-shadow: 0 0px 0px rgba(0,0,0,.3);
 }
 
 /* miscelaneous controls (hotel page, roomshare, etc.) */

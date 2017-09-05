@@ -4,6 +4,7 @@
   {% include tprog-item.html %}
 {% else %}
   {% if keynote.bio    != "" %}{% assign has_bio    = true %}{% else %}{% assign has_bio   = nil %}{% endif %}
+  {% if keynote.abstract and keynote.abstract != "" %}{% assign has_abstract = true %}{% else %}{% assign has_abstract = nil %}{% endif %}
   {% if keynote.link   != "" %}{% assign has_link   = true %}{% else %}{% assign has_link   = nil %}{% endif %}
   {% if keynote.slides != "" %}{% assign has_slides = true %}{% else %}{% assign has_slides = nil %}{% endif %}
   {% if paper.video  != "" %}{% assign has_video  = true %}{% else %}{% assign has_video  = nil %}{% endif %}
@@ -15,14 +16,14 @@
 
   <li data-icon="false" class="prog-item {{ progitemclass }} prog-keynote">
     
-    <h2 {{ item_style }}>
+    <p class="paper-header">
       Keynote: 
       {% if has_link %}
         <a href="{{ keynote.link }}" rel="external" target="_blank" style="color: black;">{{ keynote.title }}</a>
       {% else %}
         {{ keynote.title }}
       {% endif %}
-    </h2>
+    </p>
     
     <div class="ui-li-aside">
       {% if has_link %}
@@ -46,7 +47,9 @@
       {{ keynote.authors | replace_regex: '\(([^\)]*)\)', '<em>(\1)</em>'}}
     </p>
     {% if has_abstract or has_bio %}
-      <hr class="keynote-divider" />
+      {% if keynote.title and keynote.title != "" %}
+        <hr class="keynote-divider" />
+      {% endif %}
       {% if has_abstract %}
         <p>
           <b>Abstract: </b>{{ keynote.abstract }}
@@ -55,7 +58,7 @@
       {% endif %}
       {% if has_bio %}
         <p>
-          {% if keynote.photo != "" %}<img class="keynote-photo" src="{{ keynote.photo }}"/>{% endif %}
+          {% if keynote.photo and keynote.photo != "" %}<img class="keynote-photo" src="{{ keynote.photo }}"/>{% endif %}
           <b>Bio: </b>{{ keynote.bio }}
         </p>
         <p>&nbsp;</p>
