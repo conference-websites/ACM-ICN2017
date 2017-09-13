@@ -20,4 +20,4 @@ after_success:
   - echo set ftp:ssl-force on > ~/.lftprc
   - echo set ftp:ssl-protect-data on >> ~/.lftprc
   - echo set ssl:verify-certificate no >> ~/.lftprc
-  - lftp -u $CREDENTIALS $TARGET -e "mirror --delete --delete-first --verbose -R _site/ .; bye"
+  - lftp -u $CREDENTIALS $TARGET -e "mirror --exclude proceedings/ --delete --delete-first --verbose -R _site/ .; bye"
