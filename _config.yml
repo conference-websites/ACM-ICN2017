@@ -91,11 +91,11 @@ menu:
 - name: Previous Editions
   submenu:
     - name: ACM ICN 2016
-      url: http://conferences.sigcomm.org/acm-icn/2016/
+      url: ../2016/
     - name: ACM ICN 2015
-      url: http://conferences.sigcomm.org/acm-icn/2015/
+      url: ../2015/
     - name: ACM ICN 2014
-      url: http://conferences.sigcomm.org/acm-icn/2014/
+      url: ../2014/
 # - name: Conference
 #   submenu:
     # - name: Awards
