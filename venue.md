@@ -36,7 +36,23 @@ Dahlem has the reputation of an idyllic and quiet area. Several smaller parks an
 Note that the CS building is not directly visible from access roads.
 You can download  [the offline CS campus map](http://www.mi.fu-berlin.de/fb/contact/bild_mathinf-lageplan-300dpi/mathinf-lageplan-300dpi.jpg?width=930). ACM ICN is located in building 9.
 
-Details will follow.
+To get to the venue, we recommend to take the bus X89 until "Arnimallee".
+
+Those of you who use the metro line U3 to arrive at FU Berlin, please
+note that construction work for this metro line will start on Sep 25.
+The construction is between stations U Breitenbachplatz and U Krumme
+Lanke, which includes U Dahlem Dorf (i.e., the station to get to the venue
+of ACM ICN).
+
+At each affected metro station, a rail replacemnt bus service will be
+offered by BVG (BVG runs the public transportation system in Berlin).
+However, note that this will delay travel time. Alternatively to the
+replacement service, you can try to hop to the metro line U9 and ride
+until Rathaus Steglitz, and then take the bus X83 to get out at station
+Arnimallee. X83 is the bus participants staying at Best Western will also use.
+
+
+
 
 ## Social Events
 
