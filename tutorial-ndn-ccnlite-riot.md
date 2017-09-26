@@ -242,19 +242,19 @@ lunch) consists of three parts:
 
 | Start  | Len | Topic  |
 |---|---|:--|
-|09:00  | 15' | Welcome, brief ICN intro  |
-|09:15  | 15'  | Why IoT with ICN  |
+|09:00  | 15' | Welcome, brief ICN intro ([Slides](files/tutorial-ndn-ccnlite-riot/1-ICN-intro.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}) |
+|09:15  | 15'  | Why IoT with ICN ([Slides](files/tutorial-ndn-ccnlite-riot/2-Why-ICN-for-IoT.pdf){: target="ndn-ccnlite-riot-tutorial-slides"})  |
 |09:30  | 10'  | Quick ICN+IoT Demo  |
 |09:40  | 20'  | Setup & Hand out PIs  |
 |10:00  | 30'  | "hello world" hands-on (incl basic intro to RIOT)  |
 |10:30  | 30'  | break  |
-|11:00  | 25'  | NDN-RIOT  |
-|11:25  | 25'  | CCN-lite  |
-|11:50  | 20'  | NDN Security  |
-|12:10  | 20'  | IoT-LAB  |
+|11:50  | 20'  | NDN Security ([Slides](files/tutorial-ndn-ccnlite-riot/4-NDN-Security.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}) |
+|11:00  | 25'  | NDN-RIOT ([Slides](files/tutorial-ndn-ccnlite-riot/5-NDN-RIOT.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}) |
+|11:25  | 25'  | CCN-lite ([Slides](files/tutorial-ndn-ccnlite-riot/6-ccn-lite-overview.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}) |
+|12:10  | 20'  | IoT-LAB ([Slides](files/tutorial-ndn-ccnlite-riot/7-IoTLab.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}) |
 |12:30  | 60'  | lunch  |
-|13:30  | 25'  | NDN-Android  |
-|13:55  | 25'  | NFN  |
+|13:30  | 25'  | NDN-Android ([Slides](files/tutorial-ndn-ccnlite-riot/8-NDN-Android.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}) |
+|13:55  | 25'  | NFN ([Slides](files/tutorial-ndn-ccnlite-riot/9-NFN.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}) |
 |14:20  | 10'  | Sign up for parallel tracks  |
 |14:30  | 60'  | Track 1 -- Demo-style (for PIs) |
 |       |      | Track 2 -- Hacking RIOT |
