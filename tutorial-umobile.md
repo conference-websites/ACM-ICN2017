@@ -122,3 +122,7 @@ Oi! is an application that allows users to send short messages independently of 
 
 * Prior to the tutorial, we will distribute all related UMOBILE software that will be demonstrated during the tutorial.
 
+### Acknowledgements
+
+This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 645124.
+
