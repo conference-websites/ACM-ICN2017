@@ -82,7 +82,7 @@ To make the ride to the banquet more interesting, we organize a guided city tour
 We will meet at the local train station Friedrichstr., split in groups of 30 people, and then walk to the banquet (45-60 minutes).
 The tour is organized by professional tour guides, explaining you all details about the historic neighborhood and giving you insights outside of the common tourist paths.
 
-The tour starts from S-Friedrichstr. to the banquet. We will meet in front of the entry of museum "Tränenpalast", which is in front of the S-Friedrichstr.
+The tour starts from S-Friedrichstr. to the banquet. We will meet in front of the entry of museum "Tr&auml;nenpalast", which is in front of the S-Friedrichstr. The tour is organized by professional tour guides.
 
 ### Banquet, September 27
 
