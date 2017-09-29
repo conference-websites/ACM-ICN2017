@@ -242,21 +242,21 @@ lunch) consists of three parts:
 
 | Start  | Len | Topic  |
 |---|---|:--|
-|09:00  | 15' | Welcome, brief ICN intro ([Slides](files/tutorial-ndn-ccnlite-riot/1-ICN-intro.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}) |
-|09:15  | 15'  | Why IoT with ICN ([Slides](files/tutorial-ndn-ccnlite-riot/2-Why-ICN-for-IoT.pdf){: target="ndn-ccnlite-riot-tutorial-slides"})  |
-|09:30  | 10'  | Quick ICN+IoT Demo  |
+|09:00  | 15' | Welcome, brief ICN intro ([Slides](files/tutorial-ndn-ccnlite-riot/1-ICN-intro.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}, [Video](https://youtu.be/2mEatrx3oP4){: target="ndn-ccnlite-riot-tutorial-video"}) |
+|09:15  | 15'  | Why IoT with ICN ([Slides](files/tutorial-ndn-ccnlite-riot/2-Why-ICN-for-IoT.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}, [Video](https://youtu.be/BOoBuNlb2kI){: target="ndn-ccnlite-riot-tutorial-video"})  |
+|09:30  | 10'  | Quick ICN+IoT Demo ([Video](https://youtu.be/7LzaYD5fsAo){: target="ndn-ccnlite-riot-tutorial-video"}) |
 |09:40  | 20'  | Setup & Hand out PIs  |
 |10:00  | 30'  | "hello world" hands-on (incl basic intro to RIOT)  |
 |10:30  | 30'  | break  |
-|11:50  | 20'  | NDN Security ([Slides](files/tutorial-ndn-ccnlite-riot/4-NDN-Security.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}) |
-|11:00  | 25'  | NDN-RIOT ([Slides](files/tutorial-ndn-ccnlite-riot/5-NDN-RIOT.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}) |
-|11:25  | 25'  | CCN-lite ([Slides](files/tutorial-ndn-ccnlite-riot/6-ccn-lite-overview.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}) |
-|12:10  | 20'  | IoT-LAB ([Slides](files/tutorial-ndn-ccnlite-riot/7-IoTLab.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}) |
+|11:50  | 20'  | NDN Security ([Slides](files/tutorial-ndn-ccnlite-riot/4-NDN-Security.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}, [Video](https://youtu.be/_l1vSdF-BlY){: target="ndn-ccnlite-riot-tutorial-video"}) |
+|11:00  | 25'  | NDN-RIOT ([Slides](files/tutorial-ndn-ccnlite-riot/5-NDN-RIOT.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}, [Video](https://youtu.be/R1zl0rtutF4){: target="ndn-ccnlite-riot-tutorial-video"}) |
+|11:25  | 25'  | CCN-lite ([Slides](files/tutorial-ndn-ccnlite-riot/6-ccn-lite-overview.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}, [Video](https://youtu.be/uIioBG_H8uI){: target="ndn-ccnlite-riot-tutorial-video"}) |
+|12:10  | 20'  | IoT-LAB ([Slides](files/tutorial-ndn-ccnlite-riot/7-IoTLab.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}, [Video](https://youtu.be/2eK5t3Vqqr8){: target="ndn-ccnlite-riot-tutorial-video"}) |
 |12:30  | 60'  | lunch  |
-|13:30  | 25'  | NDN-Android ([Slides](files/tutorial-ndn-ccnlite-riot/8-NDN-Android.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}) |
-|13:55  | 25'  | NFN ([Slides](files/tutorial-ndn-ccnlite-riot/9-NFN.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}) |
+|13:30  | 25'  | NDN-Android ([Slides](files/tutorial-ndn-ccnlite-riot/8-NDN-Android.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}, [Video](https://youtu.be/K7nMc6HidJ4){: target="ndn-ccnlite-riot-tutorial-video"}) |
+|13:55  | 25'  | NFN ([Slides](files/tutorial-ndn-ccnlite-riot/9-NFN.pdf){: target="ndn-ccnlite-riot-tutorial-slides"}, [Video](https://youtu.be/FFqOwMWB0Uc){: target="ndn-ccnlite-riot-tutorial-video"}) |
 |14:20  | 10'  | Sign up for parallel tracks  |
-|14:30  | 60'  | Track 1 -- Demo-style (for PIs) |
+|14:30  | 60'  | Track 1 -- MiniNDN ([Video](https://youtu.be/xYRPHZe18o0){: target="ndn-ccnlite-riot-tutorial-video"}) |
 |       |      | Track 2 -- Hacking RIOT |
 |       |      | Track 3 -- Hacking NFN  |
 |15:30  | 30'  | break  |
